@@ -1,0 +1,13 @@
+{
+  "name": "buku_alumni",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx tailwindcss -o public/css/main.css --watch --jit --purge='./public/*.html'",
+    "build": "npx tailwindcss -o public/css/main.css --jit --purge='./public/*.html' --minify"
+  },
+  "keywords": [],
+  "author": "Amarosuli",
+  "license": "MIT"
+}
