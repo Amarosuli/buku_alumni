@@ -6,6 +6,3 @@ app.set({
 })
 
 app.render()
-
-
-document.getElementById("buku_alumni")
